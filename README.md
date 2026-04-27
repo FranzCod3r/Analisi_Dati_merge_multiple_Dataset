@@ -1,4 +1,4 @@
-# Analisi Dati Realistica
+# Analisi Dati - merge da fonti multiple (CSV,JSON,SQL)
 
 Questo repository contiene un esercizio demo in Python per la creazione, il merge e l'ottimizzazione di dataset con `pandas` e `numpy`.
 
@@ -17,7 +17,7 @@ Questo repository contiene un esercizio demo in Python per la creazione, il merg
 L'obiettivo è dimostrare una pipeline di analisi dati semplice che include:
 
 - generazione di dataset sintetici
-- importazione e **unione di file CSV/JSON** (eventualmente db MySQL)
+- importazione e **unione di file CSV/JSON** (si può aggiungere anche SQL)
 - ottimizzazione dei tipi di dati (`integer`, `category`, `float64`)
 - calcolo di metriche e filtri
 - visualizzazione dei risultati con grafici
